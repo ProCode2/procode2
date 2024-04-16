@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=procode2" alt="procode2" /></a> </p>
 
-- 🔭 I’m currently working on [Lena (Academic Project)](https://github.com/procode2/lena)
+- 🔭 I’m currently working on [Lena (Academic Project)](https://github.com/procode2/lena_v2)
 
 - 🌱 I’m currently learning **Rust, Golang an diving deep into low level fundamentals.**
 
